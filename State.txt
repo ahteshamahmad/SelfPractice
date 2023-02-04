@@ -2,3 +2,5 @@ Git branch
 Git checkout
 Git add.
 git commit
+git push
+git pull
