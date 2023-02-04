@@ -1,4 +1,3 @@
-Mumbai
-Chennai
-Bihar
-West Bengal
+MP
+UP
+UK
