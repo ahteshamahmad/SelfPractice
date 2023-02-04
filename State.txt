@@ -4,3 +4,5 @@ Git add.
 git commit
 git push
 git pull
+git diff
+git fetch
